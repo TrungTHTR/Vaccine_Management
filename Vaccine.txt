@@ -1,0 +1,5 @@
+Vaccine{idVac=COVID-V001, nameVac=AstraZeneca}
+Vaccine{idVac=COVID-V002, nameVac=SPUTNIK V}
+Vaccine{idVac=COVID-V003, nameVac=Vero Cell}
+Vaccine{idVac=COVID-V004, nameVac=Pfizer}
+Vaccine{idVac=COVID-V005, nameVac=Moderna}

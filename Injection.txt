@@ -1,0 +1,6 @@
+Injection{ID=6, injDate1=13/11/2002, injDate2=14/12/2002, stuID=SE159, vacID=COVID-V002, injPlace1=eqweqca, InjPlace2=adqwvava}
+Injection{ID=5, injDate1=29/08/2021, injDate2=29/08/2021, stuID=SE456, vacID=COVID-V006, injPlace1=FPT, InjPlace2=FPT}
+Injection{ID=4, injDate1=23/09/2006, injDate2=23/10/2006, stuID=SE753, vacID=COVID-V005, injPlace1=BV THANH PHO, InjPlace2=FPT}
+Injection{ID=3, injDate1=15/01/2003, injDate2=null, stuID=SE234, vacID=COVID-V004, injPlace1=FPT, InjPlace2= null}
+Injection{ID=2, injDate1=14/12/2002, injDate2=14/01/2003, stuID=SE789, vacID=COVID-V003, injPlace1=BV THANH PHO, InjPlace2=FPT}
+Injection{ID=1, injDate1=13/11/2001, injDate2=null, stuID=SE123, vacID=COVID-V001, injPlace1=FPT, InjPlace2= null}

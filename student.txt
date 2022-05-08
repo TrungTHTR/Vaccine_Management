@@ -1,0 +1,10 @@
+Student{id=SE123, name=Bao Dai}
+Student{id=SE234, name=Hung Vuong}
+Student{id=SE456, name=Tran Hung Dao}
+Student{id=SE789, name=Quang Trung}
+Student{id=SE753, name=Nguyen Hue}
+Student{id=SE159, name=Nguyen A}
+Student{id=SE987, name=Nguyen B}
+Student{id=SE654, name=Nguyen C}
+Student{id=SE357, name=Nguyen D}
+Student{id=SE046, name=Nguyen F}
